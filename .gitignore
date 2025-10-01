@@ -1,0 +1,27 @@
+# Python Virtual Environment
+# Never commit the virtual environment folder
+venv/
+.venv
+
+# Python cache files and artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+
+# Environment variables
+# Never commit your secrets or API keys
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
