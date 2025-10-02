@@ -25,3 +25,14 @@ build/
 
 # Log files
 *.log
+
+# Scrapy specific
+# ----------------
+# This directory is created by Scrapy to store project data
+.scrapy/
+
+# Common Scrapy output files for testing
+*.json
+*.jl
+*.csv
+*.xml
