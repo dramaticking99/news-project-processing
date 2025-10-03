@@ -108,3 +108,5 @@ AUTOTHROTTLE_TARGET_CONCURRENCY = 1.0
 
 # Set settings whose default value is deprecated to a future-proof value
 FEED_EXPORT_ENCODING = "utf-8"
+
+PLAYWRIGHT_DEFAULT_NAVIGATION_TIMEOUT = 60000
